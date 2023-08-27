@@ -1,4 +1,4 @@
-#############################################################Brief Overview###############################################################################
+############################################################# Brief Overview ###############################################################################
 
 The project is about implementing a transfer learning technique. 
 Here we use Xception architecture from Keras applications to build a deep learning model for Image classification. 
