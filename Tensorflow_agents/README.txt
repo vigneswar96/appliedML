@@ -1,3 +1,7 @@
+##################################################README###############################################################################
+This is a game developing repository. 
+Here Games are developed and played with the help of Tensorflow agents. 
+Agents is a library for reinforcement learning in TensorFlow.TF-Agents makes designing, implementing and testing new RL algorithms easier, by providing well tested modular components that can be modified and extended. It enables fast code iteration, with good test integration and benchmarking.
 **************************************************Dependencies*************************************************************************
 Dependencies 
 
