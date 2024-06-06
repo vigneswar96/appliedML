@@ -71,3 +71,6 @@
 	Saving the Image:
 
 	Save the generated image to a file named "bird_and_birdfeeder.png" using the save method provided by the Image object.
+
+
+![Alt text](./salome-guruli-ST_QmOkfdIA-unsplash.jpg)
