@@ -72,5 +72,5 @@
 
 	Save the generated image to a file named "bird_and_birdfeeder.png" using the save method provided by the Image object.
 
-  <img src="./salome-guruli-ST_QmOkfdIA-unsplash.jpg" width="350" title="Bird Feeder">
+  <img src="./salome-guruli-ST_QmOkfdIA-unsplash.jpg" width="350" title="Bird Feeder" />
 
