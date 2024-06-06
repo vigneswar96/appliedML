@@ -73,4 +73,4 @@
 	Save the generated image to a file named "bird_and_birdfeeder.png" using the save method provided by the Image object.
 
 
-![Alt text](./salome-guruli-ST_QmOkfdIA-unsplash.jpg)
+![salome-guruli-ST_QmOkfdIA-unsplash](https://github.com/vigneswar96/appliedML/assets/62825587/43c3a62b-4a5d-4e5f-a6e7-9fe95da45813)
