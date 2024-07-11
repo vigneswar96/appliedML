@@ -1,7 +1,7 @@
 ############################################README########################################################
 
 
-There are 4 notebooks associated with Ms-Pacman game. 
+# There are 4 notebooks associated with Ms-Pacman game. 
 
 1) buildAndTrainAgent-MsPacman : 
 
@@ -31,14 +31,14 @@ There are 4 notebooks associated with Ms-Pacman game.
 Saving the Trained Model and Policy: 
 It generates a video of the trained policy playing the MsPacman game. 
 
-2) ResumeTraining: 
+# 2) ResumeTraining: 
    Differences from Previous Code:
 
 This code extends the functionality to include resuming training from a checkpoint and exporting/importing policies.
 It introduces checkpointing, allowing the model to be saved and resumed from a specific point in training.
 It saves the final trained model and policy.
 								
-3) DeployGamePlayer: 
+# 3) DeployGamePlayer: 
    
 This notebook mainly focuses on deploying a pre-trained agent and visualizing its performance. 
 The environment, Q-Network, DQN Agent, and data collection mechanisms are already trained and saved in the pre-trained policy.
@@ -47,9 +47,9 @@ The pre-trained policy is loaded using tf.saved_model.load(policy_dir).
 The run_episodes_and_create_video() function takes the loaded policy, the evaluation environment, and the Python environment as inputs.
 It runs the policy in the environment, captures frames, and creates a GIF to visualize the agent's performance.
 
-4) Createtrainingcurvesandvideos: 
+# 4) Createtrainingcurvesandvideos: 
 
-#Importing Libraries and Setting Up:
+## Importing Libraries and Setting Up:
 
 The necessary libraries are imported, and configurations are set up, including installing TensorFlow and configuring visualization settings.
 Setting Hyperparameters and Environment:
