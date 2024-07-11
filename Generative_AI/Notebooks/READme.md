@@ -1,6 +1,6 @@
 ###########################################README#########################################################
 
-1) subselectImages: This folder contains 2 python files one is for bird and birdfeeder. Whether the given input image is having both bird and bird feeder then it returns the image. 
+# 1) subselectImages: This folder contains 2 python files one is for bird and birdfeeder. Whether the given input image is having both bird and bird feeder then it returns the image. 
 
 	1) subSelectImages_Bird_birdfeeder.py 
 	2) subSelectImages_squirrel_birdfeeder.py
@@ -12,6 +12,10 @@ Image 0 Mask
 
 <img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-1.jpeg" width ="250" alt ="Bird Feeder">
 
+Image 0 Replaced
+
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-1-birdsReplaced.jpeg" width = "250" alt = "Bird Feeder">
+
 Image 1
 
 <img src="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/bird-2.jpeg" width="250" alt="Bird Feeder">
@@ -19,6 +23,12 @@ Image 1
 Image 1 Mask
 
 <img src="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-2.jpeg" width="250" alt="Bird Feeder">
+
+Image 1 Replaced
+
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-2-birdsReplaced.jpeg" width = "250" alt = "Bird Feeder">
+
+This looks a bit wacky :D
 
 
 Image 2
@@ -29,6 +39,10 @@ Image 2 Mask
 
 <img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-3.jpeg" width="250" alt = "Bird Feeder">
 
+Image 2 Replaced
+
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-3-birdsReplaced.jpeg" width = "250" alt = "Bird Feeder">
+
 Image 3
 
 <img src ="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/bird-4.jpeg" width ="250" alt = "Bird Feeder"> 
@@ -36,6 +50,10 @@ Image 3
 Image 3 Mask
 
 <img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-4.jpeg" width = "250" alt = "Bird Feeder">
+
+Image 3 Replaced
+
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-4-birdsReplaced.jpeg" width = "250" alt = "Bird Feeder">
 
 Image 4
 
@@ -45,8 +63,14 @@ Image 4 Mask
 
 <img src ="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-5.jpeg" width ="250" alt = "Bird Feeder">
 
+Image 4 Replaced
 
-2) Segmentation: This folder contains all files related to Segmentation of Images. 
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-5-birdsReplaced.jpeg" width= "250" alt= "Bird Feeder">
+
+
+
+# 2) Segmentation: This folder contains all files related to Segmentation of Images.
+   
 	What Am i Segmenting?
 	Well, Importing Libraries and Initializing Models:
 
@@ -68,7 +92,7 @@ Image 4 Mask
 	The predicted masks for the detected objects are visualized and saved as images. 
 	Segmentation works for both squirrels and birds. 
 
-3) Removesquirrels: 
+4) Removesquirrels: 
 
 	Importing Libraries and Loading Pre-trained Models:
 
@@ -92,10 +116,10 @@ Image 4 Mask
 	A function replace_birds is defined to replace objects in an input image with birds using the inpainting model.
 	A list of input image filenames is provided, and for each input image, the function is called to replace objects with birds. It saves multiple output images with variations.
 
-4) ReplaceBirds: 
+# 5) ReplaceBirds: 
 	The images are to be replaced with birds. 
 	
-5) GenerateBirdFeederImagesfromText: 
+# 6) GenerateBirdFeederImagesfromText: 
 	Importing Libraries and Loading the Pretrained Model:
 
 	Import the necessary libraries: from diffusers import StableDiffusionPipeline for using the Stable Diffusion model and torch for deep learning operations.
