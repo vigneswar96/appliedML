@@ -1,4 +1,4 @@
-##############################################################README##############################################
+############################################README########################################################
 
 
 There are 4 notebooks associated with Ms-Pacman game. 
@@ -76,3 +76,24 @@ Training curves (average return vs. cumulative gameplay experience) are plotted 
 Video Generation from Checkpoints:
 
 Checkpoints from different stages of training are evaluated, and videos of gameplay using the trained policy are generated.
+
+# Generated Gifs PacMan
+
+![Alt text](https://github.com/vigneswar96/appliedML/blob/main/Tensorflow_agents/Gifs/MsPacman_20000.gif) 
+
+![Alt text](https://github.com/vigneswar96/appliedML/blob/main/Tensorflow_agents/Gifs/MsPacman_25000.gif)
+
+![Alt text](https://github.com/vigneswar96/appliedML/blob/main/Tensorflow_agents/Gifs/MsPacman_50000.gif)
+
+Performing well 
+
+![Alt text](https://github.com/vigneswar96/appliedML/blob/main/Tensorflow_agents/Gifs/myAgentPlays-MsPacman_HIGH.gif)
+
+
+# Generated Gifs SpaceInvaders
+
+![Alt text](https://github.com/vigneswar96/appliedML/blob/main/Tensorflow_agents/Gifs/myAgentPlays-SpaceInvaders-POOR.gif) 
+
+![Alt text](https://github.com/vigneswar96/appliedML/blob/main/Tensorflow_agents/Gifs/myAgentPlays-SpaceInvaders-INTERMEDIATE.gif)
+
+![Alt text](https://github.com/vigneswar96/appliedML/blob/main/Tensorflow_agents/Gifs/myAgentPlays-SpaceInvaders-HIGH.gif)
