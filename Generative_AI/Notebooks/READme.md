@@ -3,7 +3,48 @@
 1) subselectImages: This folder contains 2 python files one is for bird and birdfeeder. Whether the given input image is having both bird and bird feeder then it returns the image. 
 
 	1) subSelectImages_Bird_birdfeeder.py 
-	2) subSelectImages_squirrel_birdfeeder.py 
+	2) subSelectImages_squirrel_birdfeeder.py
+    
+Image 0 <br>
+<img src="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/bird-1.jpeg" width="250" alt="Bird Feeder"> <br>
+
+Image 0 Mask 
+
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-1.jpeg" width ="250" alt ="Bird Feeder">
+
+Image 1
+
+<img src="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/bird-2.jpeg" width="250" alt="Bird Feeder">
+
+Image 1 Mask
+
+<img src="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-2.jpeg" width="250" alt="Bird Feeder">
+
+
+Image 2
+
+<img src ="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/bird-3.jpeg" width="250" alt = "Bird Feeder">
+
+Image 2 Mask 
+
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-3.jpeg" width="250" alt = "Bird Feeder">
+
+Image 3
+
+<img src ="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/bird-4.jpeg" width ="250" alt = "Bird Feeder"> 
+
+Image 3 Mask
+
+<img src = "https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-4.jpeg" width = "250" alt = "Bird Feeder">
+
+Image 4
+
+<img src ="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/bird-5.jpeg" width ="250" alt = "Bird Feeder"> 
+
+Image 4 Mask 
+
+<img src ="https://github.com/vigneswar96/appliedML/blob/main/Generative_AI/Notebooks/images/masked_bird-5.jpeg" width ="250" alt = "Bird Feeder">
+
 
 2) Segmentation: This folder contains all files related to Segmentation of Images. 
 	What Am i Segmenting?
